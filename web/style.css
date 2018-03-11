@@ -1,6 +1,7 @@
 html {
 	background-image: url("./img/back_main.jpeg");
 	background-size: cover;
+	background-repeat: no-repeat;
 	font-family: Helvetica;
 	color: white;
 }
@@ -17,7 +18,7 @@ h1 {
 }
 
 p {
-	font-size: 1rem;
+	font-size: 1.5rem;
 }
 
 .menu_bar{
@@ -29,6 +30,7 @@ p {
 	padding: 5px;
 	padding-left: 10px;
 	padding-right: 10px;
+	transition: 0.2s
 }
 
 .menu_bar:hover {
@@ -39,4 +41,15 @@ p {
 #menu{
 	background-color: gray;
 	padding: 5px;
+}
+
+#git {
+	text-decoration: none;
+	color: white;
+	transition: 0.5s;
+	font-size: 2rem;
+}
+
+#git:hover {
+	letter-spacing: 7px;
 }
