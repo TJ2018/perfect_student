@@ -1,8 +1,8 @@
-# perfect_student
+# Perfect Student
 by: Lachi B, Avi P, Sid K, Ishaan S
 
 ## About
-A web based student homework and nutrition tracking.
+A web based student homework and nutrition tracking using a Python Flask backend and DialogFlow API chat bot to handle requests.
 
 ## Use
 to execute, cd to the cloned folder and type:
@@ -26,5 +26,3 @@ A response similar to:
  
  ## Credit
  Background image credits belong to: https://www.pexels.com/photo/clouds-cold-frost-frosty-540518/
- 
- 
